@@ -3,9 +3,9 @@
 
 <img src="https://user-images.githubusercontent.com/78124357/114731339-ab5cfb80-9d0f-11eb-890a-fba8ea1bd52f.jpg" align="center"/>
 
-### Hi there! Im Dylan!
+## Hi there! Im Dylan!
 
-## I'm a Full-Stack Developer who enjoys writing clean code while turning complex problems into simple solutions! I enjoy the creative aspect of coding and the ability to be able to create amazing apps. When I'm not coding, you can find me either cooking or playing guitar. Thanks for visiting!
+### I'm a Full-Stack Developer who enjoys writing clean code while turning complex problems into simple solutions! I enjoy the creative aspect of coding and the ability to be able to create amazing apps. When I'm not coding, you can find me either cooking or playing guitar. Thanks for visiting!
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
@@ -15,7 +15,7 @@
 
 ---
 
-### Languages and Tools:
+## Languages and Tools:
 <p align="left">
 </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="26" height="26" aligh="left"/>
  <a href="https://www.gnu.org/software/bash/" target="_blank"> 
@@ -40,7 +40,7 @@
 
 ---
 
-### By The Numbers:
+## By The Numbers:
 ---
 
 [![DylanDrechsel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DylanDrechsel&theme=midnight-purple)](https://github.com/DylanDrechsel/github-readme-stats)
