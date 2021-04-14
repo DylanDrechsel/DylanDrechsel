@@ -29,9 +29,9 @@
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-</a> <a href="https://expressjs.com" target="_blank">
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="26" height="26" align="left"/> 
- 
+</a> <a href="https://expressjs.com" target="_blank" />
+<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="26" height="26" align="left"/> </a>
+
 
 <br />
 <br />
@@ -53,9 +53,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- Project 4 
-- 100 days of code (https://github.com/DylanDrechsel/code-every-day)
+- Project 4
+- <a href="https://github.com/DylanDrechsel/code-every-day" target="_blank"> 100 days of code </a>
 - React Native Playground 
+
 
 <!-- BLOG-POST-LIST:END -->
 
