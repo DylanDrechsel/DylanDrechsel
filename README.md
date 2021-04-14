@@ -3,8 +3,9 @@
 <a href="https://linkedin.com/in/dylan-drechsel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dylan-drechsel" height="30" width="40" /></a>
 </p>
 
-
+<p align="center">
 <img src="https://user-images.githubusercontent.com/78124357/114731339-ab5cfb80-9d0f-11eb-890a-fba8ea1bd52f.jpg" align="center"/>
+</p>
 
 ## Hi there! Im Dylan!
 
