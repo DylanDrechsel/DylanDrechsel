@@ -1,4 +1,7 @@
-
+<p align="right">
+<a href="https://twitter.com/DylanDrechsel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Dylan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dylan-drechsel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dylan-drechsel" height="30" width="40" /></a>
+</p>
 
 
 <img src="https://user-images.githubusercontent.com/78124357/114731339-ab5cfb80-9d0f-11eb-890a-fba8ea1bd52f.jpg" align="center"/>
@@ -7,11 +10,7 @@
 
 ### I'm a Full-Stack Developer who enjoys writing clean code while turning complex problems into simple solutions! I enjoy the creative aspect of coding and the ability to be able to create amazing apps. When I'm not coding, you can find me either cooking or playing guitar. Thanks for visiting!
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://twitter.com/DylanDrechsel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Dylan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dylan-drechsel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dylan-drechsel" height="30" width="40" /></a>
-</p>
+
 
 ---
 
