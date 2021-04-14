@@ -30,7 +30,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 </a> <a href="https://expressjs.com" target="_blank">
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="26" height="26" align="left"/>
+<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="26" height="26" align="left"/> 
  
 
 <br />
@@ -38,7 +38,7 @@
 
 ---
 
-### I’m currently working on ...
+### I’m currently learning ...
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -47,6 +47,19 @@
 - Learning React Native
 
 <!-- BLOG-POST-LIST:END -->
+
+---
+### I’m currently working on 
+
+<!-- BLOG-POST-LIST:START -->
+
+- Project 4 
+- 100 days of code (https://github.com/DylanDrechsel/code-every-day)
+- React Native Playground 
+
+<!-- BLOG-POST-LIST:END -->
+
+
 
 ---
 ## By The Numbers:
