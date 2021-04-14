@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm a Full-Stack Developer who enjoys writing clean code while turning complex problems into simple problems!
+## I'm a Full-Stack Developer who enjoys writing clean code while turning complex problems into simple solutions!
 
 ---
 
