@@ -11,8 +11,6 @@
 
 ### I'm a Full-Stack Developer who enjoys writing clean code while turning complex problems into simple solutions! I enjoy the creative aspect of coding and the ability to be able to create amazing apps. When I'm not coding, you can find me either cooking or playing guitar. Thanks for visiting!
 
-
-
 ---
 
 ## Languages and Tools:
@@ -39,6 +37,16 @@
 <br />
 
 ---
+
+### I’m currently working on ...
+
+<!-- BLOG-POST-LIST:START -->
+
+- Learning Python
+- Learning Algorithms / Coding Challenges
+- Learning React Native
+
+<!-- BLOG-POST-LIST:END -->
 
 ## By The Numbers:
 ---
