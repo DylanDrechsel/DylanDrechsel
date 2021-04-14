@@ -48,12 +48,13 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-## By The Numbers:
 ---
+## By The Numbers:
 
 [![DylanDrechsel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DylanDrechsel&theme=midnight-purple)](https://github.com/DylanDrechsel/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanDrechsel&layout=compact)](https://github.com/yourUserName/github-readme-stats)
+---
 
 
 
