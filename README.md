@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hi there! Im Dylan!
 
 ## I'm a Full-Stack Developer who enjoys writing clean code while turning complex problems into simple solutions!
+
+<p align="left"> <a href="https://twitter.com/DylanDrechsel" target="blank"><img src="https://img.shields.io/twitter/follow/DylanDrechsel?logo=twitter&style=for-the-badge" alt="DylanDrechsel" /></a> </p>
+
+
+
 
 ---
 
