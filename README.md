@@ -2,9 +2,7 @@
 
 ## I'm a Full-Stack Developer who enjoys writing clean code while turning complex problems into simple solutions!
 
-<p align="left"> <a href="https://twitter.com/DylanDrechsel" target="blank"><img src="https://img.shields.io/twitter/follow/DylanDrechsel?logo=twitter&style=for-the-badge" alt="DylanDrechsel" /></a> </p>
-
-<h2 align="left">Connect with me: 🌱</h2>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/DylanDrechsel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Dylan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dylan-drechsel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dylan-drechsel" height="30" width="40" /></a>
