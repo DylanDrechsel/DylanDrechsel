@@ -3,9 +3,10 @@
 <a href="https://linkedin.com/in/dylan-drechsel" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="dylan-drechsel" height="30" width="30" /></a>
 </p>
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/78124357/114731339-ab5cfb80-9d0f-11eb-890a-fba8ea1bd52f.jpg" align="center"/>
-</p>
+![OoudKw2P](https://user-images.githubusercontent.com/78124357/116292016-3e138680-a763-11eb-8e54-ecce68f276ec.gif)
+
+
+
 
 ## Hi there! Im Dylan!
 
@@ -34,7 +35,8 @@
 
 
 <br />
-<br />
+<br />![Uploading OoudKw2P.gif…]()
+
 
 ---
 
