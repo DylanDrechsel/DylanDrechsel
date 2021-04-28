@@ -35,7 +35,7 @@
 
 
 <br />
-<br />![Uploading OoudKw2P.gif…]()
+<br />
 
 
 ---
