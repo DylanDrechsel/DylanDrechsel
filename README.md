@@ -38,13 +38,12 @@
 <br />
 
 ### Recently Complete Projects
----
 
 <a href="https://github.com/DylanDrechsel/dungeon-dive"> Dungeon Dive </a>
 
 ---
 
-### I’m currently learning ...
+### I’m currently learning
 
 <!-- BLOG-POST-LIST:START -->
 
