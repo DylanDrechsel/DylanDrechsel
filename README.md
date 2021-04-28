@@ -37,13 +37,13 @@
 <br />
 <br />
 
-### Recently Complete Projects
+### Recently Complete Projects:
 
 <a href="https://github.com/DylanDrechsel/dungeon-dive"> Dungeon Dive </a>
 
 ---
 
-### I’m currently learning
+### I’m currently learning:
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -54,7 +54,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-### I’m currently working on 
+### I’m currently working on:
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -65,7 +65,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 ---
-### I’m looking for help with
+### I’m looking for help with:
 
 <!-- BLOG-POST-LIST:START -->
 
