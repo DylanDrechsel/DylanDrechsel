@@ -37,6 +37,10 @@
 <br />
 <br />
 
+### Recently Complete Projects
+---
+
+<a href="https://github.com/DylanDrechsel/dungeon-dive"> Dungeon Dive </a>
 
 ---
 
@@ -55,7 +59,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- Project 4
+- <a href="https://github.com/DylanDrechsel/dungeon-dive"> Portfolio Websites </a>
 - <a href="https://github.com/DylanDrechsel/code-every-day" target="_blank"> 100 days of code </a>
 - React Native Playground 
 
