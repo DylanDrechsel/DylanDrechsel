@@ -58,7 +58,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- <a href="https://github.com/DylanDrechsel/DylanDrechsel.com"> Portfolio Websites </a>
+- <a href="https://github.com/DylanDrechsel/DylanDrechsel.com"> Portfolio Website </a>
 - <a href="https://github.com/DylanDrechsel/code-every-day" target="_blank"> 100 days of code </a>
 - React Native Playground 
 
