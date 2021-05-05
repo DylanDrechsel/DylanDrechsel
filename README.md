@@ -47,9 +47,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- Learning Python
-- Learning Algorithms / Coding Challenges
-- Learning React Native
+- Python
+- Algorithms / Coding Challenges
+- React Native
 
 <!-- BLOG-POST-LIST:END -->
 
