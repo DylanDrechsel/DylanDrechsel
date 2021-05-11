@@ -60,7 +60,7 @@
 
 - <a href="https://github.com/DylanDrechsel/DylanDrechsel.com"> Portfolio Website </a>
 - <a href="https://github.com/DylanDrechsel/code-every-day" target="_blank"> 100 days of code </a>
-- <a href="https://github.com/DylanDrechsel/prisma-test"> Prisma Backend Set Up </a>
+- <a href="https://github.com/DylanDrechsel/prisma-test"> Reddit Clone Backend </a>
 
 
 <!-- BLOG-POST-LIST:END -->
