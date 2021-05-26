@@ -39,7 +39,7 @@
 
 ### Recently Complete Projects:
 
-- <a href="https://github.com/DylanDrechsel/DylanDrechsel.com"> Portfolio Website </a>
+ - <h4> <a href="https://github.com/DylanDrechsel/DylanDrechsel.com"> Portfolio Website </a> ---> <a href="https://www.dylandrechsel.com/"> Link </a> </h4> 
 - <a href="https://github.com/DylanDrechsel/dungeon-dive"> Dungeon Dive </a>
 
 ---
