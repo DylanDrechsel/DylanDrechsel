@@ -63,8 +63,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- <a href="https://github.com/DylanDrechsel/reddit-clone-backend"> Reddit Clone Backend </a>
-- <a href="https://github.com/DylanDrechsel/reddit-clone-frontend"> Reddit Clone Frontend </a>
+- <a href="https://github.com/DylanDrechsel/sharecipes"> Sharecipes </a>
 - <a href="https://github.com/DylanDrechsel/code-every-day" target="_blank"> 100 days of code </a>
 
 
