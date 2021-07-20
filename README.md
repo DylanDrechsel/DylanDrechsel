@@ -52,9 +52,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 
+- React Native
 - Python
 - Algorithms / Coding Challenges
-- React Native
 
 <!-- BLOG-POST-LIST:END -->
 
