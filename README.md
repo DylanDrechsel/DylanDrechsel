@@ -63,7 +63,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- <a href="https://github.com/DylanDrechsel/sharecipes"> Sharecipes </a>
+- <a href="https://github.com/DylanDrechsel/sharecipes"> shaRecipes </a>
 - <a href="https://github.com/DylanDrechsel/code-every-day" target="_blank"> Code Every Day </a>
 
 
