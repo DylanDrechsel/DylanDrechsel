@@ -73,8 +73,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- Coding a synthesizer.
-- Coding an equalizer.
+- Coding a synthesizer
+- Coding an equalizer
 
 <!-- BLOG-POST-LIST:END -->
 
