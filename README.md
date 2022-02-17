@@ -52,8 +52,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- React Native
-- Python
+- Rust
+- Web Assembly
+- GraphQL
 - Algorithms / Coding Challenges
 
 <!-- BLOG-POST-LIST:END -->
@@ -68,16 +69,6 @@
 
 
 <!-- BLOG-POST-LIST:END -->
----
-### I’m looking for help with:
-
-<!-- BLOG-POST-LIST:START -->
-
-- Coding a synthesizer
-- Coding an equalizer
-
-<!-- BLOG-POST-LIST:END -->
-
 ---
 ## By The Numbers:
 
