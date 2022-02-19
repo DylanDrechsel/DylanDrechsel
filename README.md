@@ -93,7 +93,7 @@
 
 - Rust
 - Web Assembly
-- GraphQL
+- Web3
 - Algorithms / Coding Challenges
 
 <!-- BLOG-POST-LIST:END -->
