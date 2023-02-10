@@ -1,6 +1,6 @@
 <p align="right">
 <!-- <a href="https://twitter.com/DylanDrechsel" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Emblem.png" alt="Dylan" height="30" width="60" /></a> -->
-<a href="https://linkedin.com/in/dylan-drechsel" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="dylan-drechsel" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/dylan-drechsel" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="dylan-drechsel" height="30" width="100" /></a>
 </p>
 
 ![OoudKw2P](https://user-images.githubusercontent.com/78124357/116292016-3e138680-a763-11eb-8e54-ecce68f276ec.gif)
