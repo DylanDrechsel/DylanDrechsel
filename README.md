@@ -10,7 +10,7 @@
 
 ## Hi there, Im Dylan!
 
-#### I'm a Full-Stack Developer who enjoys writing clean code while turning complex problems into simple solutions! I enjoy the creative aspect of coding and the ability to be able to create amazing apps. When I'm not coding, you can find me either cooking or playing guitar. I really enjoy music technologies and hope to code some of my own in the near future. Thanks for visiting!
+#### I am a Full-Stack Developer who takes pride in crafting clean, efficient code and transforming complex problems into elegant solutions. My passion lies in the creative aspects of coding, enabling me to build exceptional applications. When I'm not immersed in programming, I can be found cooking up a storm or strumming my guitar. As an avid music enthusiast, I aspire to develop innovative music technologies in the near future. Thank you for stopping by!
 
 ---
 
