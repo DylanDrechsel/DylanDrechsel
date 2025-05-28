@@ -19,6 +19,61 @@
 ### 👨‍💻 Programming languages
 
 <p>
+  <a href="http://googleusercontent.com/image_collection/image_retrieval/11220399067732160062"><img alt="Go" src="http://googleusercontent.com/image_collection/image_retrieval/11220399067732160062"></a>
+  <a href="http://googleusercontent.com/image_collection/image_retrieval/1530582489276478364"><img alt="Salesforce" src="http://googleusercontent.com/image_collection/image_retrieval/1530582489276478364"></a>
+  <a href="http://googleusercontent.com/image_collection/image_retrieval/15853415664397965555"><img alt="Apex" src="http://googleusercontent.com/image_collection/image_retrieval/15853415664397965555"></a>
+  <a href="http://googleusercontent.com/image_collection/image_retrieval/6262501149110388561"><img alt="Svelte" src="http://googleusercontent.com/image_collection/image_retrieval/6262501149110388561"></a>
+    <a href="http://googleusercontent.com/image_collection/image_retrieval/17663042939759119534"><img alt="Game Maker Language" src="http://googleusercontent.com/image_collection/image_retrieval/17663042939759119534"></a>
+  <a href="http://googleusercontent.com/image_collection/image_retrieval/2730289354682158663"><img alt="Scss" src="http://googleusercontent.com/image_collection/image_retrieval/2730289354682158663"></a>
+  <a href="http://googleusercontent.com/image_collection/image_retrieval/15757683091706897044"><img alt="Tailwind" src="http://googleusercontent.com/image_collection/image_retrieval/15757683091706897044"></a>
+  <a href="http://googleusercontent.com/image_collection/image_retrieval/6294556020892365061"><img alt="Lua" src="http://googleusercontent.com/image_collection/image_retrieval/6294556020892365061"></a>
+</p>
+
+### 🗄️ Databases and cloud hosting
+
+<p>
+  <a href="http://googleusercontent.com/image_collection/image_retrieval/15751322010001577049"><img alt="Microsoft Azure" src="http://googleusercontent.com/image_collection/image_retrieval/15751322010001577049"></a>
+  <a href="http://googleusercontent.com/image_collection/image_retrieval/9868042201175993726"><img alt="Google Cloud" src="http://googleusercontent.com/image_collection/image_retrieval/9868042201175993726"></a>
+    <a href="http://googleusercontent.com/image_collection/image_retrieval/1516672281285191172"><img alt="Cloudflare" src="http://googleusercontent.com/image_collection/image_retrieval/1516672281285191172"></a>
+  <a href="http://googleusercontent.com/image_collection/image_retrieval/5441305611684767243"><img alt="Firebase" src="http://googleusercontent.com/image_collection/image_retrieval/5441305611684767243"></a>
+</p>
+
+### 💻 Software and tools
+
+<p>
+  <a href="http://googleusercontent.com/image_collection/image_retrieval/4657019616141550228"><img alt="Next.js" src="http://googleusercontent.com/image_collection/image_retrieval/4657019616141550228"></a>
+  <a href="http://googleusercontent.com/image_collection/image_retrieval/11220399067732158427"><img alt="Vite" src="http://googleusercontent.com/image_collection/image_retrieval/11220399067732158427"></a>
+  <a href="http://googleusercontent.com/image_collection/image_retrieval/17917993244816194988"><img alt="Angular" src="http://googleusercontent.com/image_collection/image_retrieval/17917993244816194988"></a>
+  <a href="http://googleusercontent.com/image_collection/image_retrieval/16202022304531635157"><img alt="jquery" src="http://googleusercontent.com/image_collection/image_retrieval/16202022304531635157"></a>
+  <a href="http://googleusercontent.com/image_collection/image_retrieval/15626045161504311321"><img alt="Astro" src="http://googleusercontent.com/image_collection/image_retrieval/15626045161504311321"></a>
+  <a href="http://googleusercontent.com/image_collection/image_retrieval/12150718573255552777"><img alt="FastAPI" src="http://googleusercontent.com/image_collection/image_retrieval/12150718573255552777"></a>
+    <a href="http://googleusercontent.com/image_collection/image_retrieval/517419727092654519"><img alt="Flutter" src="http://googleusercontent.com/image_collection/image_retrieval/517419727092654519"></a>
+  <a href="http://googleusercontent.com/image_collection/image_retrieval/4414039908049280633"><img alt="React Native" src="http://googleusercontent.com/image_collection/image_retrieval/4414039908049280633"></a>
+  <a href="http://googleusercontent.com/image_collection/image_retrieval/15626045161504312599"><img alt="Docker" src="http://googleusercontent.com/image_collection/image_retrieval/15626045161504312599"></a>
+  <a href="http://googleusercontent.com/image_collection/image_retrieval/11220399067732160234"><img alt="Godot gdscript" src="http://googleusercontent.com/image_collection/image_retrieval/11220399067732160234"></a>
+  <a href="http://googleusercontent.com/image_collection/image_retrieval/17962384153185812128"><img alt="Vue.js" src="http://googleusercontent.com/image_collection/image_retrieval/17962384153185812128"></a>
+    <a href="http://googleusercontent.com/image_collection/image_retrieval/12113647280602140214"><img alt="Spring Boot" src="http://googleusercontent.com/image_collection/image_retrieval/12113647280602140214"></a>
+</p>
+
+### Artificial Intelligence
+
+<p>
+  <a href="http://googleusercontent.com/image_collection/image_retrieval/6658083316093307079"><img alt="ChatGPT" src="http://googleusercontent.com/image_collection/image_retrieval/6658083316093307079"></a>
+  <a href="http://googleusercontent.com/image_collection/image_retrieval/514018530118195079"><img alt="Midjourney" src="http://googleusercontent.com/image_collection/image_retrieval/514018530118195079"></a>
+  <a href="http://googleusercontent.com/image_collection/image_retrieval/7985998028864785958"><img alt="Deepseek" src="http://googleusercontent.com/image_collection/image_retrieval/7985998028864785958"></a>
+  <a href="http://googleusercontent.com/image_collection/image_retrieval/5441305611684766719"><img alt="Claude" src="http://googleusercontent.com/image_collection/image_retrieval/5441305611684766719"></a>
+  <a href="http://googleusercontent.com/image_collection/image_retrieval/12130876406005394140"><img alt="Gemini" src="http://googleusercontent.com/image_collection/image_retrieval/12130876406005394140"></a>
+  <a href="http://googleusercontent.com/image_collection/image_retrieval/16446165560812016323"><img alt="LLaMA" src="http://googleusercontent.com/image_collection/image_retrieval/16446165560812016323"></a>
+  <a href="http://googleusercontent.com/image_collection/image_retrieval/17917993244816191647"><img alt="DALLE" src="http://googleusercontent.com/image_collection/image_retrieval/17917993244816191647"></a>
+  <a href="http://googleusercontent.com/image_collection/image_retrieval/17169801484719559339"><img alt="Copolit" src="http://googleusercontent.com/image_collection/image_retrieval/17169801484719559339"></a>
+  <a href="http://googleusercontent.com/image_collection/image_retrieval/8381516556059875496"><img alt="Cursor" src="http://googleusercontent.com/image_collection/image_retrieval/8381516556059875496"></a>
+</p>
+
+## 🛠️ My favorite tools
+
+### 👨‍💻 Programming languages
+
+<p>
     <a href=""><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
     <a href=""><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
     <a href=""><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?logo=rust"></a>
