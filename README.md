@@ -79,12 +79,12 @@
 <br />
 <br />
 
-### Recently Complete Projects:
+<!-- ### Recently Complete Projects: -->
 
 <!-- - <h4> <a href="https://master.dvzb15cl8s3db.amplifyapp.com/"> Dreddit </a> </h4>
 - <h4> <a href="https://github.com/DylanDrechsel/dreddit-frontend"> Dreddit Frontend Repo </a> </h4>
 - <h4> <a href="https://github.com/DylanDrechsel/dreddit-backend"> Dreddit Backend Repo </a> </h4>
-- <h4> <a href="https://github.com/DylanDrechsel/DylanDrechsel.com"> Portfolio Website </a> ---> <a href="https://www.dylandrechsel.com/"> Link </a> </h4> 
+- <h4> <a href="https://github.com/DylanDrechsel/DylanDrechsel.com"> Portfolio Website </a> ---> <!-- <a href="https://www.dylandrechsel.com/"> Link </a> </h4> -->
 <!-- - <h4> <a href="https://github.com/DylanDrechsel/dungeon-dive"> Dungeon Dive </a> <h4> -->
  
 
