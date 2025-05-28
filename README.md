@@ -81,11 +81,11 @@
 
 ### Recently Complete Projects:
 
-- <h4> <a href="https://master.dvzb15cl8s3db.amplifyapp.com/"> Dreddit </a> </h4>
+<!-- - <h4> <a href="https://master.dvzb15cl8s3db.amplifyapp.com/"> Dreddit </a> </h4>
 - <h4> <a href="https://github.com/DylanDrechsel/dreddit-frontend"> Dreddit Frontend Repo </a> </h4>
 - <h4> <a href="https://github.com/DylanDrechsel/dreddit-backend"> Dreddit Backend Repo </a> </h4>
 - <h4> <a href="https://github.com/DylanDrechsel/DylanDrechsel.com"> Portfolio Website </a> ---> <a href="https://www.dylandrechsel.com/"> Link </a> </h4> 
-- <h4> <a href="https://github.com/DylanDrechsel/dungeon-dive"> Dungeon Dive </a> <h4>
+<!-- - <h4> <a href="https://github.com/DylanDrechsel/dungeon-dive"> Dungeon Dive </a> <h4> -->
  
 
 ---
@@ -96,8 +96,8 @@
 
 - Rust
 - Web Assembly
-- Web3
-- Algorithms / Coding Challenges
+- Salesforce
+- Game Maker
 
 <!-- BLOG-POST-LIST:END -->
 
@@ -106,8 +106,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- <a href="https://github.com/DylanDrechsel/sharecipes"> shaRecipes </a>
-- <a href="https://github.com/DylanDrechsel/code-every-day" target="_blank"> Code Every Day </a>
+- <a href="https://github.com/DylanDrechsel/DylanDrechsel.com"> DylanDrechsel.com </a>
+- <a href="https://github.com/DylanDrechsel/2d-Platformer" target="_blank"> 2D Platformer </a>
 
 
 <!-- BLOG-POST-LIST:END -->
